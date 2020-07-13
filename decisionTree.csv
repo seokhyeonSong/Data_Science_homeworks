@@ -1,0 +1,15 @@
+﻿District,House Type,Income,Previous Customer,Outcome
+Suburban,Detached,High,No,Nothing
+Suburban,Semi-detached,High,Yes,Respond
+Rural,Semi-detached,Low,No,Respond
+Urban,Detached,Low,Yes,Nothing
+Suburban,Detached,Low,Yes,Nothing
+Suburban,Semi-detached,High,No,Respond
+Suburban,Semi-detached,High,Yes,Respond
+Rural,Semi-detached,High,Yes,Nothing
+Rural,Detached,Low,No,Respond
+Rural,Detached,Low,Yes,Respond
+Urban,Detached,High,Yes,Nothing
+Urban,Semi-detached,High,No,Respond
+Urban,Detached,High,No,Respond
+Urban,Detached,Low,No,Respond
